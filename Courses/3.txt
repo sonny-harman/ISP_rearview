@@ -1,0 +1,6 @@
+#Powered trajectory, Earth-Jupiter-Neptune-Eris
+#E-J-N-e: 4/30/32-4/1/45; 8.97 months to J; 4.38 years to N; vmax = 7.44 au/yr @ 100 au
+E 2032 4 30
+J 2033 10 28
+N 2036 9 16
+e 2045 4 1 8.117910425506091E+01  4.513218115831508E+01 -1.077950880176379E+01

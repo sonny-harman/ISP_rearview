@@ -1,0 +1,13 @@
+# values for Johnson-Cousins band mags taken from Mallama, Krobusek, and Pavlov 2017, Icarus
+# geometric albedo = 10^((Solmag-pmag)/2.5)/(sin(rp/1.496E11))^2
+#name       au          radius      alb   U     B     V     R     I     Rc    Ic          SPK name                color       symbol Letter
+Sun         0           6.96E8      0     -25.9 -26.1 -26.75 -27.29 -27.63 -27.15 -27.49  Sun #                   gold        ☉      S
+Mercury     0.3871      2.439E6     0.12  0.69  0.28  -.69  -1.44 -1.99 -1.21 -1.69       Mercury #               black       ☿     m
+Venus       0.7233      6.051E6     0.75  -2.79 -3.68 -4.38 -4.95 -5.08 -4.73 -4.63       Venus #                 tan         ♀     V
+Earth       1           6.371E6     0.30  -3.64 -3.52 -3.99 -4.49 -4.86 -4.28 -4.63       Earth #                 b           ♁     E
+Mars        1.5273      3.389E6     0.16  0.39  -0.24 -1.60 -2.71 -3.20 -2.42 -2.90       Mars Barycenter         r           ♂     M
+Jupiter     5.2028      6.991E7     0.34  -8.11 -8.54 -9.40 -9.85 -9.72 -9.75 -9.79       Jupiter Barycenter      firebrick   ♃     J
+Saturn      9.5388      5.823E7     0.34  -7.08 -7.84 -8.91 -9.59 -9.61 -9.59 -9.74       Saturn Barycenter       plum        ♄     s
+Uranus      19.1914     2.536E7     0.30  -6.28 -6.61 -7.11 -6.69 -6.01 -6.84 -6.00       Uranus Barycenter       c           ⛢     U
+Neptune     30.0611     2.464E7     0.29  -6.38 -6.55 -6.94 -6.50 -5.77 -6.61 -5.71       Neptune Barycenter      orange      ♆     N
+Pluto       39.4820     1.188E6     0.40  -5.38 -5.93 -6.96 -7.72 -8.12 -7.50 -7.87       Pluto Barycenter        k           ♇     P

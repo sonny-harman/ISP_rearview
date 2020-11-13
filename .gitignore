@@ -1,0 +1,13 @@
+### Image files
+*.gif
+*.png
+*.pdf
+
+### Big data files
+skyfield_data/*
+
+### File system junk
+.DS_Store
+
+### Compiled python
+__pycache__

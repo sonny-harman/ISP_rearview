@@ -1,0 +1,6 @@
+#Passive trajectory, Earth-Jupiter-Quaoar
+#E-J-q passive: 2/7/30-4/14/36; 9.3 months to J; vmax = 6.86 au/yr @ 100 au
+#non-planet stops must have x,y,z listed in au after the object for rendezvous
+E 2030 2 7
+J 2030 12 30
+q 2036 4 14 17.25040793768612 -38.22541939762562 5.676370461110914
